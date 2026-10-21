@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "jakecerney.html",
+    "href": "jakecerney.html",
+    "title": "Food Intake by U.S. Household",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nUSDA National Household Food Acquisition and Purchase Survey\n\n\n\n\nDomain/topic\n\n\nNutrition\n\n\n\n\nSource type\n\n\nGovernment dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nUSDA - Government agency\n\n\n\n\nOriginal purpose\n\n\nTo provide data for scientific research on U.S. housesholds’ food choices\n\n\n\n\nCollection method\n\n\nSurvey (2 online surveys administered in-person)\n\n\n\n\nRecord-creation event\n\n\nSurvey submitted\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nSurvey response\n\n\n\n\nPopulation or objects represented\n\n\nU.S. households (11 years-old and higher)\n\n\n\n\nTime period covered\n\n\nApril 2012 - January 2013\n\n\n\n\nGeographic area coverage\n\n\nUnited States\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nVaries - 11 total datasets\n\n\n\n\nData types included\n\n\nIDs per household, numerical, binary, categorical\n\n\n\n\nDirect measurements\n\n\nRecorded responses\n\n\n\n\nPossible proxy variables\n\n\nHealth statuses, scaled from 1 to 5, best to worst.\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\n13 documents for the 11 datasets\n\n\n\n\nStated collection details\n\n\nCaptures a 7-day period of sampled households’ food purchases. These purchases were recorded by the household members. For eligibility to participate, households were screened twice."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Introduce your topic area. What did you choose, why did you choose it?"
+  },
+  {
+    "objectID": "index.html#topic-area",
+    "href": "index.html#topic-area",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Introduce your topic area. What did you choose, why did you choose it?"
+  },
+  {
+    "objectID": "index.html#research-question",
+    "href": "index.html#research-question",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "Research Question",
+    "text": "Research Question\nState your research question that you hope to answer with data."
+  }
+]

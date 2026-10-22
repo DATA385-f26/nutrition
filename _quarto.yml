@@ -22,7 +22,7 @@ website:
         - text: "Aaron Joseph"
           href: aaronjoseph.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:

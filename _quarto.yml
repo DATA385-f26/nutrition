@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Jake Cerney"
           href: jakecerney.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "Aaron Joseph"
+          href: aaronjoseph.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 

@@ -4,8 +4,12 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+For our topic area, we chose nutrition. Aaron and I found nutrition and its trends within the United States something we both gravitated towards, so that is what made us interested in the topic. 
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+What food groups have been correlated with an increase in health risks?
+
+## Amended Research Question
+
+What do those living within the U.S. purchase for food, and what food types are commonly being purchased over time?  
